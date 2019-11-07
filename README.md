@@ -1,6 +1,7 @@
 # React Native Web Playground
 
-rnwp stands for react native web playground.
-I will add weekly UI / UX challenge that will work on mobile and web. Stay tuned the journey is just started
+Tutorial:
 
-UI will be added soon....
+1. [Setup React Native Web App with TypeScript and WebPack](https://blog.kiprosh.
+
+2. In Progress... [Setup react navigation for React Native Web]()
