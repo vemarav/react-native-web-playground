@@ -1,6 +1,7 @@
 # React Native Web Playground
 
 fork it and make it - https://github.com/vemarav/react-native-web-typescript-template
+
 Fork the repo and choose it as a template for your RNW project
 
 Tutorial:
